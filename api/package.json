@@ -1,16 +1,17 @@
 {
-  "name": "test-mongo-app",
+  "name": "api",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a basic docker contained MERN Stack project.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nicholas Vormack",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.6.1"
   },
