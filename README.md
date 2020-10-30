@@ -19,5 +19,6 @@ The goal of this project is to apply Jenkins and a CI pipeline directly to a fea
 
 7. Now, you will setup Jenkins and Install all of the plugins using the link: localhost:8080
 
-8. Finally, you will setup your CI pipeline directly to your github remote repository : ) --There are guides on YouTube to complete this step.
+8. Finally, you will setup your CI pipeline directly to your github remote repository : )
+--There are guides on YouTube to complete step 8.
 MERNDOCKERV0.0.1
