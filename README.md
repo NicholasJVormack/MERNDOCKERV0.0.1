@@ -9,3 +9,4 @@
 
 # now you'll check the localhost:3000 to see react running with the back end and api all working together in separate containers. # MERN_Docker_Fresh_0.1
 # MERN_Docker_Fresh_0.1
+# MERNDOCKERV0.0.1
